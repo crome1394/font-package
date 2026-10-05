@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+ms-fonts/
+fonts/microsoft/
+private/
+additions/*
+!additions/README.md
